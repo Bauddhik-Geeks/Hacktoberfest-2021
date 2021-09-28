@@ -1,5 +1,9 @@
 # Hacktoberfest 2021 🎉
 
+![](https://img.shields.io/github/repo-size/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Bauddhik-Geeks">
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+
 ![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 This repository houses the codebase for the Hacktoberfest in Aba website hosted on GitHub Pages. The live version can be accessed [here](https://github.com/Bauddhik-Geeks). More about GitHub Pages: https://pages.github.com/.
 
@@ -173,5 +177,7 @@ We use [Git](https://github.com/Bauddhik-Geeks) for versioning. For the versions
 * [DigitalOcean](http://digitalocean.com/)
 * [GitHub](https://github.com/Bauddhik-Geeks)
 
-:wink:
-:wink:
+<p align="center">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://user-images.githubusercontent.com/68494604/120436157-39627380-c39c-11eb-89cf-58089fb1032d.gif">
+   <br>
+</p>
