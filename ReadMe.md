@@ -13,6 +13,9 @@ Hacktoberfest — brought to you by DigitalOcean in partnership with GitHub and 
 
 Celebrated every month of October based on the German festivity Oktoberfest. The main purpose of this event is to stimulate open source contributions on Github by rewarding users that participate in making at least 5 Pull Requests with a T-Shirt.
 
+![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/68494604/135076527-89cc39ce-183c-4652-bd1d-3afbaa29ee2e.png)
+
+
 ### 😄 Participation Details
 
 Hacktoberfest is open to everyone in our global community. Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.
