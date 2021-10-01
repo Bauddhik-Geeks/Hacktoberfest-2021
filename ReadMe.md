@@ -2,6 +2,9 @@
 
 ![](https://img.shields.io/github/repo-size/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END --> 
 
 ![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
 This repository houses the codebase for the Hacktoberfest in Aba website hosted on GitHub Pages. The live version can be accessed [here](https://github.com/Bauddhik-Geeks). More about GitHub Pages: https://pages.github.com/.
@@ -177,6 +180,19 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
 
   </tr>
 </table>
+
+## 💖 Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://allcontributors.org) specification.
+Contributions of any kind are welcome!
 
 ## ✔️✔️✔️ Acknowledgments
 
