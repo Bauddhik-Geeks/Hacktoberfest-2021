@@ -121,6 +121,10 @@ first stage the files for commit.
 ```
 $ git add <filename1> <filename2>
 ```
+if you want to stage all the files for commit.
+```
+$ git add .
+```
 Verify that the files have been staged.
 ```
 $ git status
@@ -148,16 +152,16 @@ This project doesn't require you running a live server on your local machine. Si
 
 ## Built With
 
-* [HTML, CSS & Javascript](https://) - Web Technologies
-* [Git](https://github.com/Bauddhik-Geeksm) - Version Control System
+* [HTML, CSS & Javascript](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks) - Web Technologies
+* [Git](https://git-scm.com/) - Version Control System
 
 ## ➕ Contributing
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our [code of conduct](CODE_OF_CONDUCT.md), and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/How_to_become_member.md) for details on our [code of conduct](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/README.md), and the process for submitting pull requests to us.
 
 ## Versioning
 
-We use [Git](https://github.com/Bauddhik-Geeks) for versioning. For the versions available, see the [tags on this repository](https://github.com/HacktoberfestinAba/HacktoberfestinAba.github.io/tags).
+We use [Git](https://git-scm.com/) for versioning. For the versions available, see the [tags on this repository](https://mirrors.edge.kernel.org/pub/software/scm/git/).
 
 ## 📖 Authors
 
