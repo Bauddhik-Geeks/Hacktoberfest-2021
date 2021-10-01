@@ -1,7 +1,6 @@
 # Hacktoberfest 2021 🎉
 
 ![](https://img.shields.io/github/repo-size/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Bauddhik-Geeks">
 <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103">
 
 ![Hacktoberfest Logo](https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg)
