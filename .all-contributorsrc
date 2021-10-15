@@ -1,15 +1,15 @@
 {
   "files": [
-    "README.md"
+    "ReadMe.md"
   ],
   "imageSize": 100,
   "commit": false,
   "contributors": [
     {
-      "login": "krishguptadev",
-      "name": "Krish Gupta",
-      "avatar_url": "https://avatars.githubusercontent.com/u/91655303?v=4",
-      "profile": "https://github.com/krishguptadev",
+      "login": "thedrivingforc",
+      "name": "Kumar Mritunjay",
+      "avatar_url": "https://avatars.githubusercontent.com/u/59633985?v=4",
+      "profile": "https://github.com/thedrivingforc",
       "contributions": [
         "doc"
       ]
@@ -21,12 +21,7 @@
   "repoType": "github",
   "repoHost": "https://github.com",
   "skipCi": true,
-  "files": ["ReadMe.md"],
-  "imageSize": 100,
-  "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
   "badgeTemplate": "[![All Contributors](https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square)](#contributors)",
-  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>",
-  "skipCi": "true",
-  "contributors": []
+  "contributorTemplate": "<a href=\"<%= contributor.profile %>\"><img src=\"<%= contributor.avatar_url %>\" width=\"<%= options.imageSize %>px;\" alt=\"\"/><br /><sub><b><%= contributor.name %></b></sub></a>"
 }
