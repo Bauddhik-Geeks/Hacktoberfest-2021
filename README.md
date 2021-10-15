@@ -14,7 +14,7 @@ This repository houses the codebase for the Hacktoberfest in Aba website hosted 
 
 Hacktoberfest — brought to you by DigitalOcean in partnership with GitHub and Twilio — is a month-long celebration of open source software. Maintainers are invited to guide would-be contributors towards resolving issues that will help move the project forward, and contributors get the opportunity to give back to both projects they like, and ones they've just discovered. No contribution is too small — bug fixes and documentation updates are valid ways of participating.
 
-Celebrated every month of October based on the German festivity Oktoberfest. The main purpose of this event is to stimulate open source contributions on Github by rewarding users that participate in making at least 5 Pull Requests with a T-Shirt.
+Celebrated every month of October based on the German festivity Oktoberfest. The main purpose of this event is to stimulate open source contributions on Github by rewarding users that participate in making at least 4 Pull Requests with a T-Shirt.
 
 ![Hacktoberfest_Wallpaper_desktop-02](https://user-images.githubusercontent.com/68494604/135076527-89cc39ce-183c-4652-bd1d-3afbaa29ee2e.png)
 
@@ -27,7 +27,7 @@ You can sign up anytime between October 1 and October 31. Just be sure to sign u
 
 ### ❇️❇️❇️ Participation Rules
 
-To get a shirt, you must make five pull requests (PRs) between October 1st–31st in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
+To get a shirt, you must make four pull requests (PRs) between October 1st–31st in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won’t count towards the shirt. This year, the first 55,000 of you can earn a T-shirt (compared with 30,000 in 2017).
 
 * Create an account on GitHub: [Github](https://github.com);
 * Follow the event to account for each of the contributions: [Hacktoberfest](https://hacktoberfest.digitalocean.com/);
@@ -41,17 +41,17 @@ Create issues or add to existing ones the label “Hacktoberfest” on your GitH
 
 Log in with your GitHub account at https://hacktoberfest.digitalocean.com/ to check your progress and stats.
 
-### I completed 5 PRs. When will I receive my t-shirt?
+### I completed 4 PRs. When will I receive my t-shirt?
 
 We will start sending out emails with more details on redeeming t-shirts throughout the month. Stay tuned!
 
 ### How do I get stickers?
 
-Stickers are included with your t-shirt, once you complete 5 PRs.
+Stickers are included with your t-shirt, once you complete 4 PRs.
 
-### What happens if I complete fewer than 5 PRs by the end of the month?
+### What happens if I complete fewer than 4 PRs by the end of the month?
 
-Unfortunately you will have to submit at least 5 PRs in order to get a T-shirt.
+Unfortunately you will have to submit at least 4 PRs in order to get a T-shirt.
 
 ### 🏃🏃🏃 Completions
 
@@ -63,7 +63,7 @@ In line with Hacktoberfest value #2 (Quantity is fun, Quality is key). We have p
 - PRs that are regarded by a project maintainer as a hindrance vs. helping.
 
 Something that's clearly an attempt to simply increase your PR by +1 to count for October.
-Last but not least, one PR to fix a typo is fine. 5 PRs to remove a stray whitespace... not cool.
+Last but not least, one PR to fix a typo is fine. 4 PRs to remove a stray whitespace... not cool.
 
 ## 🕯 About
 
@@ -91,7 +91,7 @@ Fork this repository and get started.
 To work on this project from your local machine, you would need:
 - Basic understanding of [Git](https://git-scm.com/) and the [GitHub Workflow](https://guides.github.com/introduction/flow/). 
 - Also, experience with web technologies (HTML, CSS, JavaScript) is recommended but not necessary.
- -A Text Editor/Web IDE, and a recent version of any popular web browser.
+ - A Text Editor/Web IDE, and a recent version of any popular web browser.
 
 ## Installing
 
