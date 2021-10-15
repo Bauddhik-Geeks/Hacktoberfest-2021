@@ -1,6 +1,6 @@
 # Hacktoberfest 2021 🎉
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![](https://img.shields.io/github/repo-size/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks)
@@ -190,6 +190,7 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
 <table>
   <tr>
     <td align="center"><a href="https://github.com/thedrivingforc"><img src="https://avatars.githubusercontent.com/u/59633985?v=4" width="100px;" alt=""/><br /><sub><b>Kumar Mritunjay</b></sub></a></td>
+    <td align="center"><a href="https://www.vgetfresh.com/blog"><img src="https://avatars.githubusercontent.com/u/70860738?v=4" width="100px;" alt=""/><br /><sub><b>Raja Harsh Vardhan Singh</b></sub></a></td>
   </tr>
 </table>
 
