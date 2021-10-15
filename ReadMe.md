@@ -184,6 +184,8 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
 
 ## 💖 Contributors
 
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -191,6 +193,7 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
   <tr>
     <td align="center"><a href="https://github.com/thedrivingforc"><img src="https://avatars.githubusercontent.com/u/59633985?v=4" width="100px;" alt=""/><br /><sub><b>Kumar Mritunjay</b></sub></a></td>
     <td align="center"><a href="https://www.vgetfresh.com/blog"><img src="https://avatars.githubusercontent.com/u/70860738?v=4" width="100px;" alt=""/><br /><sub><b>Raja Harsh Vardhan Singh</b></sub></a></td>
+    <td align="center"><a href="https://github.com/krishguptadev"><img src="https://avatars.githubusercontent.com/u/91655303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krish Gupta</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/Hacktoberfest-2021/commits?author=krishguptadev" title="Documentation">📖</a></td>
   </tr>
 </table>
 
@@ -212,18 +215,18 @@ Contributions of any kind are welcome!
    <br>
 </p>
 
-## Contributors ✨
+<!-- ## Contributors ✨ -->
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
+<!-- <table>
   <tr>
     <td align="center"><a href="https://github.com/krishguptadev"><img src="https://avatars.githubusercontent.com/u/91655303?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Krish Gupta</b></sub></a><br /><a href="https://github.com/Bauddhik-Geeks/Hacktoberfest-2021/commits?author=krishguptadev" title="Documentation">📖</a></td>
   </tr>
-</table>
+</table> -->
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
