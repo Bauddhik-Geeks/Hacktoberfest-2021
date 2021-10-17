@@ -166,7 +166,7 @@ Please read [CONTRIBUTING.md](https://github.com/Bauddhik-Geeks/Welcome-to-Baudd
 
 We use [Git](https://git-scm.com/) for versioning. For the versions available, see the [tags on this repository](https://mirrors.edge.kernel.org/pub/software/scm/git/).
 
-## 📖 Authors
+## 📖 Author
 
 <table>
   <tr>
