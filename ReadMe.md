@@ -170,13 +170,13 @@ We use [Git](https://git-scm.com/) for versioning. For the versions available, s
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://github.com/kevalvavaliya.png" width="100px;" alt=""/><br /><sub><b>Keval</b></sub></a></td>
+<!--     <td align="center"><a href="https://github.com/kevalvavaliya"><img src="https://github.com/kevalvavaliya.png" width="100px;" alt=""/><br /><sub><b>Keval</b></sub></a></td> -->
     <td align="center"><a href="https://github.com/adityamangal1"><img src="https://github.com/adityamangal1.png?size=460" width="100px;" alt=""/><br /><sub><b>Aditya</b></sub></a></td>
 <!--     <td align="center"><a href="https://github.com/kamleshjoshi8102"><img src="https://github.com/kamleshjoshi8102.png" width="100px;" alt=""/><br /><sub><b>Kamlesh </b></sub></a></td> -->
-    <td align="center"><a href="https://github.com/Nitesh-thapliyal"><img src="https://github.com/Nitesh-thapliyal.png" width="100px;" alt=""/><br /><sub><b>Nitesh (Admin)</b></sub></a></td>
+<!--     <td align="center"><a href="https://github.com/Nitesh-thapliyal"><img src="https://github.com/Nitesh-thapliyal.png" width="100px;" alt=""/><br /><sub><b>Nitesh (Admin)</b></sub></a></td> -->
 <!--     <td align="center"><a href="https://github.com/Piyush-Codes7"><img src="https://github.com/Piyush-Codes7.png" width="100px;" alt=""/><br /><sub><b>Piyush </b></sub></a></td> -->
 <!--     <td align="center"><a href="https://github.com/priyanshupardhi"><img src="https://github.com/priyanshupardhi.png" width="100px;" alt=""/><br /><sub><b>Priyanshu</b></sub></a></td> -->
-    <td align="center"><a href="https://github.com/abhigoyani"><img src="https://github.com/abhigoyani.png" width="100px;" alt=""/><br /><sub><b>Abhi</b></sub></a></td>
+<!--     <td align="center"><a href="https://github.com/abhigoyani"><img src="https://github.com/abhigoyani.png" width="100px;" alt=""/><br /><sub><b>Abhi</b></sub></a></td> -->
 <!--     <td align="center"><a href="https://github.com/harikanani"><img src="https://github.com/harikanani.png" width="100px;" alt=""/><br /><sub><b>Harikrushn</b></sub></a></td> -->
 
   </tr>
